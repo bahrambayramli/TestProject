@@ -50,4 +50,8 @@ body .header .navigation .navigation-list .list-element .nav-link {
 body .header .navigation .navigation-list .list-element .nav-link:hover {
   background-color: lightseagreen;
 }
+
+article {
+  color: red;
+}
 /*# sourceMappingURL=style.css.map */
